@@ -28,13 +28,13 @@ Some examples include:
 - 🐍 **Python scripts** for data cleaning  
 - 📈 **Power BI reports** for interactive analysis  
 
-Check my project repository 👉 [Daily Data Analysis Learning](https://github.com/YourUsername/daily-data-analysis-learning)
+Check my project repository 👉 [Daily Data Analysis Learning](https://github.com/Mehedi-imran)
 
 ---
 
 ### 📫 Connect with Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+<a href="https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/mehedi-imran-149337265/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://github.com/YourUsername" target="_blank">
